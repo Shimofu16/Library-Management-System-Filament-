@@ -16,7 +16,7 @@ This system was developed as a personal project to learn more about Laravel and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/Shimofu16/Library-Management-System-Filament-.git
 ```
 
 2. Install Composer dependencies:
